@@ -77,3 +77,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+import the logindb.sql in your database from the root folder
+
+clone the folder in your local system
+run php artsian serve
+Login: guest@gmail.com /guest123
+
+
